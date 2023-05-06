@@ -9,5 +9,5 @@ Projeto em Grupo - Parte 1
 
 “Exercício de análise do projetos de leis municipais de Campinas usando técnicas de NLP/ML”
 
-Professor: Samuel Martins (samuel.martins@ifsp.edu.br)
+Professor: Samuel Martins (samuel.martins@ifsp.edu.br) <br>
 Aluno: Swift Motoo Yaguchi - CP301665X
